@@ -1,0 +1,4 @@
+﻿Coeficiente,Valor,p_valor,Que_capta
+Pearson r,0.468,0.147,Asociación lineal entre valores
+Spearman rho,0.499,0.118,Coincidencia de los órdenes (ranking)
+Kendall tau,0.411,0.084,Concordancia de pares (robusta con n pequeño)
