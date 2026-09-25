@@ -1,1 +1,2 @@
 # analisis-eficiencia-cajas-municipales
+Este repositorio contiene los datos y códigos de programación subyacentes al artículo "Eficiencia técnica ajustada por riesgo y solvencia de las cajas municipales peruanas mediante análisis envolvente de datos en red ", enviado a la revista Quipukamayoc. Los scripts en Python replican el cálculo de eficiencia y la generación de los gráficos presentados en el estudio.
